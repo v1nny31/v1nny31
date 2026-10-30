@@ -5,7 +5,7 @@
 - 🎓 Cégep de Saint-Jean-sur-Richelieu, Québec
 - 🎬 Montage vidéo dans mes temps libres
 - 🏒 Joueur de hockey
-- 🌐 Fluide en 🇫🇷 français et en 🇬🇧 anglais
+- 🌐 Fluide en français et en anglais
  
 Je m'intéresse surtout au côté visuel du développement :
 - 🧊 Modélisation 3D
@@ -31,7 +31,7 @@ Je m'intéresse surtout au côté visuel du développement :
 [![Courriel](https://img.shields.io/badge/Courriel-vincent.hottin2007%40gmail.com-2079C7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vincent.hottin2007@gmail.com)
  
 <details>
-<summary><b>🇬🇧 English</b></summary>
+<summary><b>English</b></summary>
   
 # Hi 👋
 ### I'm Vincent Hottin, a Computer Science Technology student.
@@ -40,7 +40,7 @@ Looking for an **internship for the Winter 2027 semester**.
 - 🎓 Cégep de Saint-Jean-sur-Richelieu, Quebec
 - 🎬 Video editing in my spare time
 - 🏒 Hockey player
-- 🌐 Fluent in 🇫🇷 French and 🇬🇧 English
+- 🌐 Fluent in French and English
 
 I'm mostly interested in the visual side of development:
 - 🧊 3D modeling
