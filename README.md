@@ -43,8 +43,8 @@ Application de clavardage de bureau pour discuter avec vos amis et vos partenair
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-<a href="https://rmble.ca"><img src="https://img.shields.io/badge/Voir_le_site-2079C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Voir le site"></a>
-<a href="https://github.com/Ramble-cstjean"><img src="https://img.shields.io/badge/Voir_le_d%C3%A9p%C3%B4t-181717?style=for-the-badge&logo=github&logoColor=white" alt="Voir le dépôt"></a>
+<a href="https://rmble.ca"><img src="assets/voir-le-site.svg" alt="Voir le site"></a>
+<a href="https://github.com/Ramble-cstjean"><img src="assets/voir-le-depot.svg" alt="Voir le dépôt"></a>
 
 ### 🖼️ Inspiration Library
 Bibliothèque personnelle de captures d'écran de sites web et d'applications, classées par catégories et étiquettes, pour donner de meilleures références de design aux agents IA. Chaque capture est accompagnée d'un prompt de design UI et d'un prompt d'image, prêts à copier.
@@ -54,7 +54,7 @@ Bibliothèque personnelle de captures d'écran de sites web et d'applications, c
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 
-<a href="https://github.com/v1nny31/inspiration-library"><img src="https://img.shields.io/badge/Voir_le_d%C3%A9p%C3%B4t-181717?style=for-the-badge&logo=github&logoColor=white" alt="Voir le dépôt"></a>
+<a href="https://github.com/v1nny31/inspiration-library"><img src="assets/voir-le-depot.svg" alt="Voir le dépôt"></a>
 
 ### ✴️ Agent Starter Kit
 Ensemble de règles, de skills et de hooks réutilisables pour que les agents de programmation IA (Claude Code, Cursor, Copilot…) suivent les mêmes normes de code dans chaque projet.
@@ -62,11 +62,11 @@ Ensemble de règles, de skills et de hooks réutilisables pour que les agents de
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-<a href="https://github.com/v1nny31/agents"><img src="https://img.shields.io/badge/Voir_le_d%C3%A9p%C3%B4t-181717?style=for-the-badge&logo=github&logoColor=white" alt="Voir le dépôt"></a>
+<a href="https://github.com/v1nny31/agents"><img src="assets/voir-le-depot.svg" alt="Voir le dépôt"></a>
 
 ## Me joindre
 
-<a href="mailto:vincent.hottin2007@gmail.com"><img src="https://img.shields.io/badge/Courriel-vincent.hottin2007%40gmail.com-2079C7?style=for-the-badge&logo=gmail&logoColor=white" alt="Courriel"></a>
+<a href="mailto:vincent.hottin2007@gmail.com"><img src="assets/courriel.svg" alt="Courriel"></a>
 
 <details>
 <summary><b>English</b></summary>
@@ -116,8 +116,8 @@ A desktop chat app for talking with your friends and gaming buddies, in active d
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-<a href="https://rmble.ca"><img src="https://img.shields.io/badge/View_site-2079C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View site"></a>
-<a href="https://github.com/Ramble-cstjean"><img src="https://img.shields.io/badge/View_repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repo"></a>
+<a href="https://rmble.ca"><img src="assets/view-site.svg" alt="View site"></a>
+<a href="https://github.com/Ramble-cstjean"><img src="assets/view-repo.svg" alt="View repo"></a>
 
 ### 🖼️ Inspiration Library
 A personal library of website and app screenshots, sorted by category and tag, built to give AI agents better design references. Each screenshot comes with a UI brief prompt and a hero image prompt, ready to copy.
@@ -127,7 +127,7 @@ A personal library of website and app screenshots, sorted by category and tag, b
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 
-<a href="https://github.com/v1nny31/inspiration-library"><img src="https://img.shields.io/badge/View_repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repo"></a>
+<a href="https://github.com/v1nny31/inspiration-library"><img src="assets/view-repo.svg" alt="View repo"></a>
 
 ### ✴️ Agent Starter Kit
 A reusable set of rules, skills and hooks so AI coding agents (Claude Code, Cursor, Copilot…) follow the same coding standards in every project.
@@ -135,10 +135,10 @@ A reusable set of rules, skills and hooks so AI coding agents (Claude Code, Curs
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-<a href="https://github.com/v1nny31/agents"><img src="https://img.shields.io/badge/View_repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repo"></a>
+<a href="https://github.com/v1nny31/agents"><img src="assets/view-repo.svg" alt="View repo"></a>
 
 ## Contact
 
-<a href="mailto:vincent.hottin2007@gmail.com"><img src="https://img.shields.io/badge/Email-vincent.hottin2007%40gmail.com-2079C7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:vincent.hottin2007@gmail.com"><img src="assets/email.svg" alt="Email"></a>
 
 </details>
