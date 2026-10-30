@@ -16,32 +16,60 @@ Je m'intéresse surtout au côté visuel du développement :
 
 **Mon IDE préféré :**
 
-[![Mon IDE préféré](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+<p>
+<a href="https://code.visualstudio.com"><img src="assets/icons/vscode.svg" alt="Visual Studio Code" title="Visual Studio Code" width="48"></a>
+</p>
 
 **Langages**
 
-[![Langages](https://skillicons.dev/icons?i=js,ts,html,css,c,cs,java,kotlin,php,mysql)](https://skillicons.dev)
+<p>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="assets/icons/js.svg" alt="JavaScript" title="JavaScript" width="48"></a>
+<a href="https://www.typescriptlang.org"><img src="assets/icons/ts.svg" alt="TypeScript" title="TypeScript" width="48"></a>
+<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="assets/icons/html.svg" alt="HTML" title="HTML" width="48"></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="assets/icons/css.svg" alt="CSS" title="CSS" width="48"></a>
+<a href="https://en.cppreference.com/w/c"><img src="assets/icons/c.svg" alt="C" title="C" width="48"></a>
+<a href="https://learn.microsoft.com/dotnet/csharp/"><img src="assets/icons/cs.svg" alt="C#" title="C#" width="48"></a>
+<a href="https://dev.java"><img src="assets/icons/java.svg" alt="Java" title="Java" width="48"></a>
+<a href="https://kotlinlang.org"><img src="assets/icons/kotlin.svg" alt="Kotlin" title="Kotlin" width="48"></a>
+<a href="https://www.php.net"><img src="assets/icons/php.svg" alt="PHP" title="PHP" width="48"></a>
+<a href="https://www.mysql.com"><img src="assets/icons/mysql.svg" alt="MySQL" title="MySQL" width="48"></a>
+</p>
 
 **Frameworks**
 
-[![Frameworks](https://skillicons.dev/icons?i=react,tailwind,laravel,dotnet)](https://skillicons.dev)
+<p>
+<a href="https://react.dev"><img src="assets/icons/react.svg" alt="React" title="React" width="48"></a>
+<a href="https://tailwindcss.com"><img src="assets/icons/tailwind.svg" alt="Tailwind CSS" title="Tailwind CSS" width="48"></a>
+<a href="https://laravel.com"><img src="assets/icons/laravel.svg" alt="Laravel" title="Laravel" width="48"></a>
+<a href="https://dotnet.microsoft.com"><img src="assets/icons/dotnet.svg" alt=".NET" title=".NET" width="48"></a>
+</p>
 
 **Outils**
 
-[![Outils](https://skillicons.dev/icons?i=unity,godot,blender,ae,pr,ps,ai,figma,git)](https://skillicons.dev)
+<p>
+<a href="https://unity.com"><img src="assets/icons/unity.svg" alt="Unity" title="Unity" width="48"></a>
+<a href="https://godotengine.org"><img src="assets/icons/godot.svg" alt="Godot" title="Godot" width="48"></a>
+<a href="https://www.blender.org"><img src="assets/icons/blender.svg" alt="Blender" title="Blender" width="48"></a>
+<a href="https://www.adobe.com/products/aftereffects.html"><img src="assets/icons/ae.svg" alt="After Effects" title="After Effects" width="48"></a>
+<a href="https://www.adobe.com/products/premiere.html"><img src="assets/icons/pr.svg" alt="Premiere Pro" title="Premiere Pro" width="48"></a>
+<a href="https://www.adobe.com/products/photoshop.html"><img src="assets/icons/ps.svg" alt="Photoshop" title="Photoshop" width="48"></a>
+<a href="https://www.adobe.com/products/illustrator.html"><img src="assets/icons/ai.svg" alt="Illustrator" title="Illustrator" width="48"></a>
+<a href="https://www.figma.com"><img src="assets/icons/figma.svg" alt="Figma" title="Figma" width="48"></a>
+<a href="https://git-scm.com"><img src="assets/icons/git.svg" alt="Git" title="Git" width="48"></a>
+</p>
 
 ## Projets
 
 ### 🌐 R*mble
 Application de clavardage de bureau pour discuter avec vos amis et vos partenaires de jeu — en développement actif.
 
-![Electron](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+<a href="https://www.electronjs.org"><img src="assets/badges/electron.svg" alt="Electron"></a>
+<a href="https://react.dev"><img src="assets/badges/react.svg" alt="React"></a>
+<a href="https://www.typescriptlang.org"><img src="assets/badges/typescript.svg" alt="TypeScript"></a>
+<a href="https://laravel.com"><img src="assets/badges/laravel.svg" alt="Laravel"></a>
+<a href="https://www.rust-lang.org"><img src="assets/badges/rust.svg" alt="Rust"></a>
+<a href="https://mariadb.org"><img src="assets/badges/mariadb.svg" alt="MariaDB"></a>
+<a href="https://redis.io"><img src="assets/badges/redis.svg" alt="Redis"></a>
 
 <a href="https://rmble.ca"><img src="assets/voir-le-site.svg" alt="Voir le site"></a>
 <a href="https://github.com/Ramble-cstjean"><img src="assets/voir-le-depot.svg" alt="Voir le dépôt"></a>
@@ -49,18 +77,18 @@ Application de clavardage de bureau pour discuter avec vos amis et vos partenair
 ### 🖼️ Inspiration Library
 Bibliothèque personnelle de captures d'écran de sites web et d'applications, classées par catégories et étiquettes, pour donner de meilleures références de design aux agents IA. Chaque capture est accompagnée d'un prompt de design UI et d'un prompt d'image, prêts à copier.
 
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+<a href="https://react.dev"><img src="assets/badges/react.svg" alt="React"></a>
+<a href="https://tailwindcss.com"><img src="assets/badges/tailwindcss.svg" alt="Tailwind CSS"></a>
+<a href="https://vite.dev"><img src="assets/badges/vite.svg" alt="Vite"></a>
+<a href="https://vitest.dev"><img src="assets/badges/vitest.svg" alt="Vitest"></a>
 
 <a href="https://github.com/v1nny31/inspiration-library"><img src="assets/voir-le-depot.svg" alt="Voir le dépôt"></a>
 
 ### ✴️ Agent Starter Kit
 Ensemble de règles, de skills et de hooks réutilisables pour que les agents de programmation IA (Claude Code, Cursor, Copilot…) suivent les mêmes normes de code dans chaque projet.
 
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+<a href="https://daringfireball.net/projects/markdown/"><img src="assets/badges/markdown.svg" alt="Markdown"></a>
+<a href="https://www.gnu.org/software/bash/"><img src="assets/badges/bash.svg" alt="Bash"></a>
 
 <a href="https://github.com/v1nny31/agents"><img src="assets/voir-le-depot.svg" alt="Voir le dépôt"></a>
 
@@ -89,32 +117,60 @@ I'm mostly interested in the visual side of development:
 
 **My favorite IDE:**
 
-[![My favorite IDE](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+<p>
+<a href="https://code.visualstudio.com"><img src="assets/icons/vscode.svg" alt="Visual Studio Code" title="Visual Studio Code" width="48"></a>
+</p>
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=js,ts,html,css,c,cs,java,kotlin,php,mysql)](https://skillicons.dev)
+<p>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="assets/icons/js.svg" alt="JavaScript" title="JavaScript" width="48"></a>
+<a href="https://www.typescriptlang.org"><img src="assets/icons/ts.svg" alt="TypeScript" title="TypeScript" width="48"></a>
+<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="assets/icons/html.svg" alt="HTML" title="HTML" width="48"></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="assets/icons/css.svg" alt="CSS" title="CSS" width="48"></a>
+<a href="https://en.cppreference.com/w/c"><img src="assets/icons/c.svg" alt="C" title="C" width="48"></a>
+<a href="https://learn.microsoft.com/dotnet/csharp/"><img src="assets/icons/cs.svg" alt="C#" title="C#" width="48"></a>
+<a href="https://dev.java"><img src="assets/icons/java.svg" alt="Java" title="Java" width="48"></a>
+<a href="https://kotlinlang.org"><img src="assets/icons/kotlin.svg" alt="Kotlin" title="Kotlin" width="48"></a>
+<a href="https://www.php.net"><img src="assets/icons/php.svg" alt="PHP" title="PHP" width="48"></a>
+<a href="https://www.mysql.com"><img src="assets/icons/mysql.svg" alt="MySQL" title="MySQL" width="48"></a>
+</p>
 
 **Frameworks**
 
-[![Frameworks](https://skillicons.dev/icons?i=react,tailwind,laravel,dotnet)](https://skillicons.dev)
+<p>
+<a href="https://react.dev"><img src="assets/icons/react.svg" alt="React" title="React" width="48"></a>
+<a href="https://tailwindcss.com"><img src="assets/icons/tailwind.svg" alt="Tailwind CSS" title="Tailwind CSS" width="48"></a>
+<a href="https://laravel.com"><img src="assets/icons/laravel.svg" alt="Laravel" title="Laravel" width="48"></a>
+<a href="https://dotnet.microsoft.com"><img src="assets/icons/dotnet.svg" alt=".NET" title=".NET" width="48"></a>
+</p>
 
 **Tools**
 
-[![Tools](https://skillicons.dev/icons?i=unity,godot,blender,ae,pr,ps,ai,figma,git)](https://skillicons.dev)
+<p>
+<a href="https://unity.com"><img src="assets/icons/unity.svg" alt="Unity" title="Unity" width="48"></a>
+<a href="https://godotengine.org"><img src="assets/icons/godot.svg" alt="Godot" title="Godot" width="48"></a>
+<a href="https://www.blender.org"><img src="assets/icons/blender.svg" alt="Blender" title="Blender" width="48"></a>
+<a href="https://www.adobe.com/products/aftereffects.html"><img src="assets/icons/ae.svg" alt="After Effects" title="After Effects" width="48"></a>
+<a href="https://www.adobe.com/products/premiere.html"><img src="assets/icons/pr.svg" alt="Premiere Pro" title="Premiere Pro" width="48"></a>
+<a href="https://www.adobe.com/products/photoshop.html"><img src="assets/icons/ps.svg" alt="Photoshop" title="Photoshop" width="48"></a>
+<a href="https://www.adobe.com/products/illustrator.html"><img src="assets/icons/ai.svg" alt="Illustrator" title="Illustrator" width="48"></a>
+<a href="https://www.figma.com"><img src="assets/icons/figma.svg" alt="Figma" title="Figma" width="48"></a>
+<a href="https://git-scm.com"><img src="assets/icons/git.svg" alt="Git" title="Git" width="48"></a>
+</p>
 
 ## Projects
 
 ### 🌐 R*mble
 A desktop chat app for talking with your friends and gaming buddies, in active development.
 
-![Electron](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+<a href="https://www.electronjs.org"><img src="assets/badges/electron.svg" alt="Electron"></a>
+<a href="https://react.dev"><img src="assets/badges/react.svg" alt="React"></a>
+<a href="https://www.typescriptlang.org"><img src="assets/badges/typescript.svg" alt="TypeScript"></a>
+<a href="https://laravel.com"><img src="assets/badges/laravel.svg" alt="Laravel"></a>
+<a href="https://www.rust-lang.org"><img src="assets/badges/rust.svg" alt="Rust"></a>
+<a href="https://mariadb.org"><img src="assets/badges/mariadb.svg" alt="MariaDB"></a>
+<a href="https://redis.io"><img src="assets/badges/redis.svg" alt="Redis"></a>
 
 <a href="https://rmble.ca"><img src="assets/view-site.svg" alt="View site"></a>
 <a href="https://github.com/Ramble-cstjean"><img src="assets/view-repo.svg" alt="View repo"></a>
@@ -122,18 +178,18 @@ A desktop chat app for talking with your friends and gaming buddies, in active d
 ### 🖼️ Inspiration Library
 A personal library of website and app screenshots, sorted by category and tag, built to give AI agents better design references. Each screenshot comes with a UI brief prompt and a hero image prompt, ready to copy.
 
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+<a href="https://react.dev"><img src="assets/badges/react.svg" alt="React"></a>
+<a href="https://tailwindcss.com"><img src="assets/badges/tailwindcss.svg" alt="Tailwind CSS"></a>
+<a href="https://vite.dev"><img src="assets/badges/vite.svg" alt="Vite"></a>
+<a href="https://vitest.dev"><img src="assets/badges/vitest.svg" alt="Vitest"></a>
 
 <a href="https://github.com/v1nny31/inspiration-library"><img src="assets/view-repo.svg" alt="View repo"></a>
 
 ### ✴️ Agent Starter Kit
 A reusable set of rules, skills and hooks so AI coding agents (Claude Code, Cursor, Copilot…) follow the same coding standards in every project.
 
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+<a href="https://daringfireball.net/projects/markdown/"><img src="assets/badges/markdown.svg" alt="Markdown"></a>
+<a href="https://www.gnu.org/software/bash/"><img src="assets/badges/bash.svg" alt="Bash"></a>
 
 <a href="https://github.com/v1nny31/agents"><img src="assets/view-repo.svg" alt="View repo"></a>
 
