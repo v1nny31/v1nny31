@@ -13,6 +13,10 @@ Je m'intéresse surtout au côté visuel du développement :
 - 🎮 Jeux vidéo
 
 ## Technologies
+
+**Mon IDE préféré** : 
+
+[![Mon IDE préféré](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
  
 **Langages**
  
