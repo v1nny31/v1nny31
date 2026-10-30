@@ -53,6 +53,10 @@ I'm mostly interested in the visual side of development:
 
 ## Technologies
 
+**My favorite IDE** : 
+
+[![Mon IDE préféré](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+
 **Languages**
 
 [![Languages](https://skillicons.dev/icons?i=js,ts,html,css,c,cs,java,kotlin,php,mysql)](https://skillicons.dev)
